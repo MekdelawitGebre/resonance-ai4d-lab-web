@@ -1,4 +1,4 @@
-# RESONANCE AI4D Lab — Homepage Modernization & Architecture Prototype
+# RESONANCE AI4D Lab 
 
 **[Live Production Prototype](https://resonance-ai4d-lab-web.vercel.app/)** • **[GitHub Repository](https://github.com/MekdelawitGebre/resonance-ai4d-lab-web)**
 
@@ -24,7 +24,7 @@ A comprehensive review of the active Google Sites portal (`https://sites.google.
 * **Navigation Architecture:** The original navigation relies on default Google Sites dropdowns with multi-level nesting. The absence of a sticky navigation pattern forces repetitive manual scrolling on desktop and mobile viewports. On mobile viewports, menus collapse into rigid drawers without clear visual feedback for active links or section jumps.
 * **Color Design Pattern & Visual Identity:** The original site adopts a generic default office theme with low-contrast gray-on-white text, weak typographic scales, and under-emphasized call-to-actions. It fails to convey the precision and technological leadership of an advanced AI research laboratory.
 * **Mobile Responsiveness:** Tables, multi-column blocks, and partner logos do not reflow dynamically on smaller viewports, resulting in clipped margins and horizontal scroll overflow.
-* **Accessibility (a11y)::** The original site lacks semantic HTML5 landmarks (`<header>`, `<main>`, `<section>`, `<footer>`), explicit ARIA attributes, and accessible keyboard `:focus-visible` boundaries.
+* **Accessibility (a11y):** The original site lacks semantic HTML5 landmarks (`<header>`, `<main>`, `<section>`, `<footer>`), explicit ARIA attributes, and accessible keyboard `:focus-visible` boundaries.
 * **Action Pathways:** Key conversion points—specifically student and researcher engagement paths like `Get Involved (Application 2025/26)`—are obscured in deep sub-navigation instead of functioning as prominent primary action buttons.
 
 ---
