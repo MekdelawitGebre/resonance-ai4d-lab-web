@@ -115,18 +115,14 @@ To deliver a polished prototype within the strictly enforced 4-hour scope, the f
 
 ---
 
-## 5. Time Allocation & Effort Tracking
-
-Total development time was capped at approximately 4 hours:
+## 5. Development Phases
 
 ```text
-[40m] Phase 1: Diagnostic Site Audit & Information Architecture Wireframing
-[30m] Phase 2: Project Initialization (Next.js, TypeScript, Tailwind, Token Setup)
-[90m] Phase 3: Core Component Implementation (Navbar, Hero 3D, Research, Partners, CTA)
-[45m] Phase 4: Responsive Breakpoint Optimization & WCAG a11y Auditing
-[35m] Phase 5: Vercel Production Deployment, Git History Curation & Documentation
-───────────────────────────────────────────────────────────────────────────
-Total: ~4 Hours (Strictly adhered to exercise guidelines)
+- Phase 1: Diagnostic Site Audit & Information Architecture Wireframing
+- Phase 2: Project Initialization (Next.js, TypeScript, Tailwind, Token Setup)
+- Phase 3: Core Component Implementation (Navbar, Hero 3D, Research, Partners, CTA)
+- Phase 4: Responsive Breakpoint Optimization & WCAG a11y Auditing
+- Phase 5: Vercel Production Deployment, Git History Curation & Documentation
 ```
 
 ---
