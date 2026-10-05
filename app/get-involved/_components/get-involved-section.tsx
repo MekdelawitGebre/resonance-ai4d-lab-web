@@ -111,13 +111,6 @@ export function GetInvolvedSection() {
         
         {/* Header */}
         <div className="max-w-3xl mb-16 lg:mb-20">
-          <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full border border-foreground/15 bg-foreground/[0.03] mb-8">
-            <Handshake className="w-4 h-4 text-foreground" />
-            <span className="text-xs font-mono tracking-wide uppercase">
-              RESONANCE AI4D LAB · TALENT & PARTNERSHIPS
-            </span>
-          </div>
-
           <h2 className="text-4xl lg:text-7xl font-display tracking-tight leading-[0.95] mb-8">
             Get Involved with RESONANCE
           </h2>

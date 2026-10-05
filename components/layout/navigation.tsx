@@ -88,7 +88,7 @@ export function Navigation() {
             <Link href="/get-involved">
               <Button
                 size="sm"
-                className={`bg-foreground hover:bg-foreground/90 text-background rounded-full transition-all duration-500 ${isScrolled ? "px-4 h-8 text-xs" : "px-6"}`}
+                className={`bg-brand hover:bg-brand-light text-white rounded-full transition-all duration-500 ${isScrolled ? "px-4 h-8 text-xs" : "px-6"}`}
               >
                 Get Involved
               </Button>
@@ -158,7 +158,7 @@ export function Navigation() {
             </Link>
             <Link href="/get-involved" className="flex-1" onClick={() => setIsMobileMenuOpen(false)}>
               <Button 
-                className="w-full bg-foreground text-background rounded-full h-14 text-base"
+                className="w-full bg-brand text-white rounded-full h-14 text-base hover:bg-brand-light"
               >
                 Get Involved
               </Button>
