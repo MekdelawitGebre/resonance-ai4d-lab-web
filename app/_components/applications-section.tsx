@@ -65,11 +65,7 @@ export function ApplicationsSection() {
             </p>
 
             <div className="p-8 rounded-3xl bg-foreground/[0.02] border border-foreground/10 hover:border-brand-border transition-colors duration-300">
-              <h3 className="font-display text-2xl mb-3">Ready to Make a Difference?</h3>
-              <p className="text-sm text-muted-foreground mb-8">
-                Choose adventure, and join the Resonance AI4D Lab to build ethical, scalable AI solutions.
-              </p>
-              
+
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
                 <Link href="https://forms.gle/aaA23pZLkq8SzsnU7" target="_blank" rel="noopener noreferrer">
                   <Button size="lg" className="w-full sm:w-auto bg-brand hover:bg-brand-light text-white rounded-full px-8">
