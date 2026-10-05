@@ -67,15 +67,6 @@ You can start editing the pages by modifying `app/page.tsx` or other pages in th
 - **3D Graphics:** React Three Fiber & Three.js
 - **Language:** TypeScript
 
-## Ready to Join Our Team?
 
-Applications for our MSc and PhD research positions are now open. Submit your application and required documents to join a pioneering initiative using AI for sustainable development in Ethiopia.
-
-### Ready to Make a Difference?
-
-Choose adventure, and join the Resonance AI4D Lab to build ethical, scalable AI solutions.
-
-- **[Apply Now](https://forms.gle/aaA23pZLkq8SzsnU7)**
-- View Full Call Details
 
 For inquiries, please email: [resonance@aau.edu.et](mailto:resonance@aau.edu.et)
